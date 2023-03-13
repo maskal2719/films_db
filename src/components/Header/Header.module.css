@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1 span {
+    color: aqua;
+    font-size: 45px;
+}
+
+h1 {
+    margin: 0;
+}
